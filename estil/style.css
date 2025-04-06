@@ -1,0 +1,22 @@
+@charset "UTF-8";
+html {background-color: rgb(171, 116, 223); font-family: Arial, Helvetica, sans-serif;}
+section {background-color: gray; width: 900px; display: flex; justify-content: center; padding: 10px; margin: auto; text-align: justify; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322);}
+section.bo {border-radius: 20px 20px 0px 0px; padding-bottom: auto;}
+section.to {border-radius: 0px 0px 20px 20px; padding: auto;}
+div {padding: 10px;}
+div.img {display: flex; justify-content: center; }
+nav {display: flex;}
+img.ela {height: 230px;}
+img.e {height: 195px;}
+img.d {width: 650px; margin: 5px; box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322);}
+h1 {color: rgb(207, 205, 202); text-align: center; font-size: 2em;}
+p {color: rgb(207, 205, 203);}
+p#a {text-align: center;}
+span {color: rgb(94, 54, 26);}
+u {color: #044999e7; text-decoration-style: double;}
+u.u {color: rgb(177, 177, 177);;}
+span.r {color: rgb(150, 16, 16);}
+span.a {color: #044999e7;}
+span.v {color: rgb(33, 90, 33);}
+span.c {color: rgb(177, 177, 177);}
+b {font: arial narrow; color: rgb(122, 89, 5);}
